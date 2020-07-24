@@ -1,0 +1,21 @@
+.main-body{
+	margin: 0;
+	padding: 0;
+	background-image: url(images/1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+}
+.container{
+	width: 400px;
+	margin-top: 100px;
+	
+}
+#login_submit:hover{
+cursor: pointer;
+}
+.card-img-top{
+	height: 150px;
+
+}
